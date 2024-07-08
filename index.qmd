@@ -1,0 +1,35 @@
+---
+title: Pinki Kumari
+image: images/Kumari.jpeg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:kumaripinki@iitgn.ac.in
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pinkikumari22/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PinkiKumari22
+    - icon: github
+      text: Github
+      href: https://github.com/PinkiKumari22
+    - icon: code-slash
+      text: LeetCode
+      href: https://leetcode.com/PINKIKUMARI22/
+    - icon: kaggle
+      text: Kaggle
+      href: https://www.kaggle.com/pinkikumariiitgn
+---
+
+Hi, I'm Pinki Kumari, pursuing M.Tech. In Computer Science and Engineering at IIT Gandhinagar August 2022 - May 2024.
+SDE @Texas Instruments , joining by 5th August 2024
+
+I am working under the supervision of [Prof. Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta) on "Automatic Speech Recognition(ASR) using Neural Tangent Kernels(NTKs)".
+
+I did a 2-month Summer Internship at [ThirdAI Corp.](https://www.thirdai.com/), which trains Large Language Models on a single CPU instead of GPUs. 
+
